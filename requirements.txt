@@ -1,0 +1,11 @@
+sentence-transformers
+transformers
+torch
+streamlit
+pandas
+cchardet
+spacy
+rank-bm25
+nltk
+openai
+openpyxl
